@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width=100%  bottom=50px  src="https://github.com/user-attachments/assets/f9fdfbfe-5538-4591-a95b-d53a091ab875"/>
 
-<!--
-**MH-Ferreira/MH-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&pause=1000&color=731EF7&width=435&lines=Hi%2C+my+name+is+Matheus+;I+am+fullstack+developer" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Matheus%20Ferreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
+</div>
+
+
+<br>
+<br>
+
+
